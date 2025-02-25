@@ -15,7 +15,7 @@ Importances of softwae engineering include;-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Birth of structured programming (1960s) 
-Back in the early days coding was free for all, but when structured programming was introduced, clear logical structurers like loop and conditionals, laying the groundwork for modern coding practices. it made software more reliable and easier to manage. 
+Back in the early days coding was free for all, but when structured programming was introduced, clear logical structurers like loop and conditionals, laying the groundwork for modern coding practices. it made software more reliable and easier to manage.  
 The Rise of Object-Oriented Programming (1980s)
 In the 1980s object-oriented programming took off, with languages like smalltalk and later C++ and Java leading the charge. It introduced the idea of organizing code into reusable objects that mimic real worlds entities. It made software development faster, more modular and easier to scale. Big systems like windows or enterprise software owe a lot to this shift. 
 The Agile Manifesto (2001)
